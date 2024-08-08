@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://raw.githubusercontent.com/GiulioDangelo/kmji/1fbc7c62ebdeac4a7a264ece49bfb1a726fc48f5/header.svg?token=A4WFEXFZBRQNOSIHA5LQAEDGWUS6Q"  />
+  <img height="" src="https://raw.githubusercontent.com/GiulioDangelo/GiulioDangelo/9717367ef7df923006c337b85d00920eb079b62a/header.svg?token=A4WFEXBYU4K7FLZ6FIK3YTDGWUUDA"  />
 </div>
 
 ###
@@ -53,9 +53,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GiulioDangelo/GiulioDangelo/output/snake.svg" alt="Snake animation" />
 
 ###
