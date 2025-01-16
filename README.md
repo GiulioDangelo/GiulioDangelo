@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://raw.githubusercontent.com/GiulioDangelo/GiulioDangelo/9717367ef7df923006c337b85d00920eb079b62a/header.svg?token=A4WFEXBYU4K7FLZ6FIK3YTDGWUUDA"  />
+  <img height="" src="https://raw.githubusercontent.com/GiulioDangelo/GiulioDangelo/9717367ef7df923006c337b85d00920eb079b62a/header.svg"  />
 </div>
 
 ###
